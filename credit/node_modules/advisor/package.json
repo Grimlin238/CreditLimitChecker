@@ -1,0 +1,18 @@
+{
+  "name": "advisor",
+  "version": "1.0.0",
+  "description": "The advisor.js file has functions for checking if the user is spending too much and one for calculating the minimum amount of money they should be spending.",
+  "main": "advisor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "Tyian Lashley",
+  "license": "ISC"
+}

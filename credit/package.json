@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "advisor": "file:../advisor/advisor-1.0.0.tgz"
+  }
+}
